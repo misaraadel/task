@@ -1,0 +1,13 @@
+.header {
+  width: 100%;
+  height: 100vh;
+  background-color: #080;
+}
+
+.header .title {
+  color: #fff;
+}
+
+.header .desc {
+  color: #f7f7f7;
+}
